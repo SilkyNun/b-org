@@ -1,0 +1,3 @@
+[submodule "b-org-client"]
+	path = b-org-client
+	url = https://github.com/SilkyNun/b-org-client
